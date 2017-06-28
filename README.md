@@ -6,3 +6,6 @@ This Android project was created with the main purpose of exemplify the Kotlin f
 
 ## Workshop Slides
 [Vantagens do Desenvolvimento Android com Kotlin ](http://slides.com/tiagomissao/deck-1#/)
+
+## Screenshots
+![Reddit News](https://raw.githubusercontent.com/tmissao/KotlinVSJava/master/pictures/Screenshot2.png)
