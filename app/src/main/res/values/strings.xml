@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">JavaVsKotlin</string>
+  <string name="click_me">Click Me</string>
+  <string name="java_title">Java Rules!</string>
+  <string name="kotlin_title">Kotlin Rules!</string>
+  <string name="hello_world">Hello World</string>
+  <string name="instructions">Click in the button to load the most relevant reddit news</string>
+</resources>
